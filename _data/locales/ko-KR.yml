@@ -11,10 +11,11 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: 홈
+  about: 🧑🏻‍💻About Me
   categories: 카테고리
-  tags: 태그
   archives: 아카이브
-  about: 정보
+  tags: 태그
+  
 
 # the text displayed in the search bar & search results
 search:
