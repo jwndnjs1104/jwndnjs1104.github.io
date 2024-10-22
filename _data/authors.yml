@@ -6,12 +6,9 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+jwndnjs1104:
+  name: Juwon Jung
+  github: https://github.com/jwndnjs1104/
+  email: wndnjs1104@naver.com
+  url: https://github.com/jwndnjs1104/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/

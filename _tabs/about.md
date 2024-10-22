@@ -18,7 +18,6 @@ toc_label: 목차
         <b><span style="color: steelblue; font-size: 100%">Tel</span></b> &nbsp; 010-3838-7869  <br/>
         <b><span style="color: steelblue; font-size: 100%">Email</span></b> &nbsp; wndnjs1104@naver.com  <br/>
         <b><span style="color: steelblue; font-size: 100%">Github</span></b> <a style="text-decoration: none; color: black" href="https://github.com/jwndnjs1104"> &nbsp;https://github.com/jwndnjs1104</a> <br/>
-        <b><span style="color: steelblue; font-size: 100%">Address</span></b> &nbsp; 서울 서초구 잠원로 117
     </div>
 </div>
 
@@ -60,7 +59,6 @@ toc_label: 목차
 **Frontend**
 - HTML5, CSS3, Javascript(ES6+), Ajax
 - React
-- 
 
 ---
 
@@ -76,3 +74,74 @@ toc_label: 목차
 
 
 ## 💻<b><span style="color: steelblue">PROJECT</span></b>
+
+#### <b><span style="color: steelblue">팀 프로젝트</span></b>
+
+<div style="display: flex; margin-bottom: 20px">
+    <div style="display: flex; flex-direction: column; margin-right: 20px">
+        <a href="/posts/팀-프로젝트1" target="_blank"><img src="assets/img/TripMaven_Landing.png" width="300" height="auto" alt="팀프로젝트" /></a>
+    </div>
+    <div>
+        <table style="border: none;">
+            <tr>
+                <th><b><span style=" font-size: 85%">소개</span></b></th>
+                <td>내용 1</td>
+            </tr>
+            <tr>
+                <th><b><span style=" font-size: 85%">기간/인원</span></b></th>
+                <td>내용 2</td>
+            </tr>
+            <tr>
+                <th><b><span style=" font-size: 85%">핵심기능</span></b></th>
+                <td>내용 2</td>
+            </tr>
+            <tr>
+                <th><b><span style=" font-size: 85%">팀 성과</span></b></th>
+                <td>내용 2</td>
+            </tr>
+            <tr>
+                <th><b><span style=" font-size: 85%">개인 기여</span></b></th>
+                <td>내용 2</td>
+            </tr>
+        </table>
+        <b><span style="font-size: 110%">TripMaven</span></b><br/>
+        <div>
+            <b><span style=" font-size: 85%">소개</span></b>
+            <span style=" font-size: 85%">소개</span>
+        </div>
+        <b><span style=" font-size: 85%">기간/인원</span></b> &nbsp; wndnjs1104@naver.com  <br/>
+        <b><span style=" font-size: 85%">핵심기능</span></b>
+        <b><span style=" font-size: 85%">팀 성과</span></b>
+        <b><span style=" font-size: 85%">개인 기여</span></b>
+    </div>
+</div>
+
+
+#### <b><span style="color: steelblue">개인 프로젝트</span></b>
+
+<div style="display: flex; margin-bottom: 20px">
+    <div style="display: flex; flex-direction: column; margin-right: 20px">
+        <a href="/posts/팀-프로젝트1" target="_blank"><img src="assets/img/TripMaven_Landing.png" width="300" height="auto" alt="팀프로젝트" /></a>
+    </div>
+    <div>
+        <p>여기다가 프로젝트 개요를 써주세요</p>
+    </div>
+</div>
+
+<div style="display: flex; margin-bottom: 20px">
+    <div style="display: flex; flex-direction: column; margin-right: 20px">
+        <a href="/posts/팀-프로젝트1" target="_blank"><img src="assets/img/TripMaven_Landing.png" width="300" height="auto" alt="팀프로젝트" /></a>
+    </div>
+    <div>
+        <p>여기다가 프로젝트 개요를 써주세요</p>
+    </div>
+</div>
+
+<div style="display: flex; margin-bottom: 20px">
+    <div style="display: flex; flex-direction: column; margin-right: 20px">
+        <a href="/posts/팀-프로젝트1" target="_blank"><img src="assets/img/TripMaven_Landing.png" width="300" height="auto" alt="팀프로젝트" /></a>
+    </div>
+    <div>
+        <p>여기다가 프로젝트 개요를 써주세요</p>
+    </div>
+</div>
