@@ -58,30 +58,37 @@ tags:
         <span style="font-size: 90%; font-weight:bold">역할 요약: 백앤드/프론트앤드/DB 설계 및 생성, 코드 정리 및 최적화, 내부로직 구현, 리액트 각종 기능 구현  </span><br/><br/>
         <span style="font-size: 90%; font-weight:bold">세부 내용 </span><br/>
         > <span style="font-size: 90%">리액트, 스프링부트, FastAPI 서버 구축</span><br/>
+        > <span style="font-size: 90%">ERD 작성, Oracle DB 설계 및 생성, 팀 공용 DB 생성</span><br/>
         > <span style="font-size: 90%">공용 DB 구축 및 관리</span><br/>
-        > <span style="font-size: 90%">DB설계, ERD 작성</span><br/>
+        > <span style="font-size: 90%">스프링부트를 이용한 백엔드 서버 구축, REST API 및 비즈니스 로직 생성</span><br/>
+        > <span style="font-size: 90%">오픈 API 활용 및 웹 어플리케이션 API를 위한 FastAPI 파이썬 서버 구축</span><br/>
+        > <span style="font-size: 90%">Google API(OCR)과 셀레니움을 이용한 자격증 확인 기능 구현</span><br/>
+        > <span style="font-size: 90%">가이드에 대한 음성 분석 및 피드백</span><br/>
+        > <span style="font-size: 90%">리액트를 이용한 프론트엔드 구축</span><br/>
+        > <span style="font-size: 90%">MQTT, Mosquitto를 이용한 실시간 채팅 및 알림 구현</span><br/>
         > <span style="font-size: 90%"></span><br/>
-        > <span style="font-size: 90%">표정 및 음성 분석</span><br/>
+        > <span style="font-size: 90%"></span><br/>
+        > <span style="font-size: 90%"></span><br/>
         > <span style="font-size: 90%">실시간 채팅 및 알림 구현</span><br/>
-        > <span style="font-size: 90%">자격증 OCR 및 셀레니움을 통한 인증</span>
+        
       </td>
     </tr>
   </table>
 </div>
 
-- ### MindMap
+### **1. MindMap**
 ![TripMaven_MindMap](assets/img/TripMaven_MindMap.png)
 
-- ### ER Diagram
+### **2. ER Diagram**
 ![TripMaven_ERD](assets/img/TripMaven_ERD.png)
 
-- ### UseCase Diagram
+### **3. UseCase Diagram**
 ![TripMaven_UseCase](assets/img/TripMaven_UseCase.png)
 
-- ### 사용한 언어/프레임워크/라이브러리/Tool
+### **4. 사용한 언어/프레임워크/라이브러리/Tool**
 ![TripMaven_Tools](assets/img/TripMaven_Tools.png)
 
-- ### 전반적인 아키텍처 구조
+### **5. 전반적인 아키텍처 구조**
 ![TripMaven_EntireArchitecture](assets/img/TripMaven_EntireArchitecture.png)
 
 - #### 채팅(MQTT) 아키텍처 구조
