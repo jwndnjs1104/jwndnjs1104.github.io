@@ -226,3 +226,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+mermaid:
+  src: 'path/to/mermaid.js'
+
